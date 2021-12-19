@@ -542,6 +542,12 @@ a:hover {
     margin-right: 6px
 }
 
+#ndzn-header .header-nav .nav-link .mdi[data-label=Map]:before {
+    content: "\F5A0";
+    font-size: 29px;
+    margin-right: 6px
+}
+
 #ndzn-header .header-nav .nav-link .mdi[data-label=Staff]:before {
     content: "\F0CE3";
     font-size: 29px;
